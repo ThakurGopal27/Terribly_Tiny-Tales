@@ -78,7 +78,7 @@ npm install
 Run the Development Server
 
 npm run dev
-Access the Application Open your browser and go to http://localhost:5173 to see the application.
+Access the Application Open your browser and go to http://localhost:3000 to see the application.
 
 Styling Details
 The application uses CSS for styling, managing themes, and defining specific UI components' appearances. It leverages CSS variables for color schemes and media queries for responsiveness.
